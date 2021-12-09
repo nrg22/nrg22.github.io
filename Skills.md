@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="finalproject.css">
 </head>
 <body style="background-color:Maroon;">
 <a href="README.md">Back</a></h>
